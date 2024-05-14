@@ -1,0 +1,6 @@
+---
+repo_basepath: /opt/repo
+repo_user: root
+repo_group: "{{ repo_user }}"
+repo_url: https://PAT@github.com/user/repo.git
+repo_branch: master
