@@ -29,3 +29,4 @@
     update: true
   environment:
     GIT_TERMINAL_PROMPT: "0"
+    GIT_HTTP_MAX_BUFFER: "104857600"
